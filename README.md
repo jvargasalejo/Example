@@ -1,2 +1,4 @@
 # Example del
-# Sera
+<<<<<<< HEAD
+# Hay vamo
+>>>>>>> origin/master
